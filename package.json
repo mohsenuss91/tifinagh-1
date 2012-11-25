@@ -1,0 +1,11 @@
+{
+  "name": "Tifinagh",
+  "version": "0.0.1",
+  "private": false,
+  "scripts": {
+    "start": "node tifinagh"
+  },
+  "dependencies": {
+     "underscore": "1.4.2"
+  }
+}
